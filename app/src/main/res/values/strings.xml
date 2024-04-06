@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Celebrity Info</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sort_by_price">net worth (descending)</string>
+    <string name="sort_by_duration">age (ascending)</string>
+    <string name="filter">Filter by:</string>
+    <string name="welcome">Welcome to Celebrity Info!</string>
+    <string name="brief">Which celebrity would you like to know about?</string>
+    <string name="enter">Enter the name</string>
+    <string name="search">Search</string>
+
+</resources>
